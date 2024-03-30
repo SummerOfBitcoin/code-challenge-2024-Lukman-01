@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Update this file to run your own code
-=======
 # Update this file to run your own code
 
 
